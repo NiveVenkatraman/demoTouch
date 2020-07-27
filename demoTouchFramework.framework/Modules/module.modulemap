@@ -1,0 +1,6 @@
+framework module demoTouchFramework {
+  umbrella header "demoTouchFramework.h"
+
+  export *
+  module * { export * }
+}
